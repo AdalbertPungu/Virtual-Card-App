@@ -4,10 +4,10 @@ _These images show different parts of the application's user interface._
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 20px; padding: 5px;">
-        <img src="./assets/design/design 1.jpg" alt="Image 1 design UI" width="450" /> 
+        <img src="./assets/design/design 1.jpg" alt="Image 1 design UI" width="300" /> 
     </div>
     <div style="flex: 1;">
-        <img src="./assets/design/design 2.jpg" alt="Image 2 design UI" width="450" />
+        <img src="./assets/design/design 2.jpg" alt="Image 2 design UI" width="300" />
     </div>
 </div>
 
